@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+	<comment>IK Analyzer 扩展配置</comment>
+	<!-- mongodb配置信息 -->
+	<entry key="user">dev</entry>
+	<entry key="password">mongodbdev</entry>
+	<entry key="port">30001</entry>
+	<entry key="host">192.168.0.1</entry>
+	<entry key="database"></entry>
+	<entry key="collection">dict</entry>
+	<entry key="method">file</entry>
+	<entry key="path">/soft/zeus/dict</entry>
+</properties>
